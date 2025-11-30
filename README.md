@@ -2,19 +2,17 @@
 
 You can deploy here directly to vercel [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/Siumauricio/landing-template-nextui)
 
-This is a template for NextJS and NextUI. 
+This is a template for NextJS and NextUI.
 
-[NextJS](https://nextjs.org/) 
+[NextJS](https://nextjs.org/)
 [NextUI](https://nextui.org/)
 
-You can see the demo here: https://landing-template-nextui.vercel.app/
-For improve this template, you can create a pull request or open an issue here [Issues](https://github.com/Siumauricio/landing-template-nextui/issues) or [Pull Request](
-    https://github.com/Siumauricio/landing-template-nextui/pulls)
-
 ### Dark Mode
+
 ![Landing Page Dark Mode](./public/Screenshot_2.png)
 
 ### Light Mode
+
 ![Landing Page Light Mode](./public/Screenshot_3.png)
 
 - Hero Section
@@ -33,15 +31,12 @@ For improve this template, you can create a pull request or open an issue here [
 
 Install dependencies
 
-    
 ```bash
 npm install
 ```
 
 Start the server
 
-    
-        
 ```bash
 npm run dev
 ```
